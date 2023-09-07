@@ -1,0 +1,1 @@
+SELECT * FROM staffs INNER JOIN users ON users.id=staffs.user_id;items
